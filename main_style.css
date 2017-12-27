@@ -1,0 +1,117 @@
+
+body{
+	width: 100%;
+	background: #f7f7f7;
+}
+
+.sign-header{
+	width: 25%;
+	height: auto;
+	float: right;
+}
+.btn-primary{
+	margin-top: 10px;
+	margin-left: 5px;
+
+}
+
+.text-info{
+	margin-top: -10px;
+	padding: 0;
+}
+form{
+	border: 1px solid #191919;
+	width: 350px;
+	box-shadow: 3px 3px 3px #191919;
+	margin-left: 30%;
+	margin-top: 15px;
+	padding: 0;
+	background: #fff;
+
+
+}
+em{
+	margin-top: 10px;
+	font-size: 12px;
+}
+
+}
+}
+fieldset{
+	border: none;
+	padding: 8px 0 20px 0;
+}
+#tel{
+	width: 320px;
+	height: 34px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+}
+#email{
+	width: 320px;
+	height: 34px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+}
+#password{
+	width: 320px;
+	height: 34px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+}
+#create_account{
+	width: 320px;
+	height: 38px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+}
+label > input > #call{
+	font-size: 10px;
+}
+
+.logos_list{
+	display: inline-block;
+	border-bottom: 1px solid #191919;
+	height: 60px;
+	margin-top: 10px;
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
+p{
+	margin-left: 5px;
+}
+
+img{
+	width: 45px;
+	height: 45px;
+	margin-bottom: 10px;
+}
+label{
+	margin-left: 5px;
+}
+#intuit_logo{
+	width: 150px;
+	height: 40px;
+	margin-left: 40%;
+	padding: 0;
+
+	
+}
+footer{
+	width: 50%;
+	height: auto;
+	margin-left: 25%;
+	margin-top: 10%;
+	background: #fff;
+	border: 1px solid #191919;
+}
+
+#footer_text{
+	font-size: 12px;
+}
+.footer{
+
+}
